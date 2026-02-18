@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Amara Okafor",
+    "capital_role": "allocator",
+    "capital_direction": "deploying",
+    "industry_focus": ["Tokenised Real-World Assets", "Blockchain Infrastructure", "Institutional DeFi"],
+    "regulatory_exposure": ["MiCA", "Local Sovereign Regulations"],
+    "primary_constraint": "Compliance and regulatory clarity",
+    "strategic_goal": "Deploy $200M into tokenised real-world assets with institutional partners",
+    "urgency_level": "high",
+    "geography_focus": ["Middle East", "Europe"]
+  },
+  {
+    "id": "2",
+    "name": "Marcus Chen",
+    "capital_role": "builder",
+    "capital_direction": "raising",
+    "industry_focus": ["Institutional Custody", "Tokenised Securities", "Settlement Infrastructure"],
+    "regulatory_exposure": ["EU Regulations", "AML/KYC Compliance"],
+    "primary_constraint": "Need strategic investors and partnerships",
+    "strategic_goal": "Scale custody infrastructure globally and onboard institutional clients",
+    "urgency_level": "medium",
+    "geography_focus": ["Europe", "Middle East"]
+  },
+  {
+    "id": "3",
+    "name": "Dr. Elena Vasquez",
+    "capital_role": "allocator",
+    "capital_direction": "deploying",
+    "industry_focus": ["Crypto Infrastructure", "TradFi-DeFi Integration", "Institutional Blockchain"],
+    "regulatory_exposure": ["SEC", "EU Regulations"],
+    "primary_constraint": "Finding Series A-B companies with institutional traction",
+    "strategic_goal": "Invest in infrastructure bridging TradFi and DeFi with strong institutional adoption",
+    "urgency_level": "high",
+    "geography_focus": ["North America", "Europe"]
+  },
+  {
+    "id": "4",
+    "name": "James Whitfield",
+    "capital_role": "builder",
+    "capital_direction": "raising",
+    "industry_focus": ["Layer-2 Scaling", "Enterprise Blockchain", "Compliance Infrastructure"],
+    "regulatory_exposure": ["AML/KYC", "Banking Regulations"],
+    "primary_constraint": "Need pilot partners in regulated institutions",
+    "strategic_goal": "Deploy compliant enterprise-grade L2 solutions for financial institutions",
+    "urgency_level": "medium",
+    "geography_focus": ["Europe", "North America"]
+  },
+  {
+    "id": "5",
+    "name": "Sophie Bergmann",
+    "capital_role": "service",
+    "capital_direction": "facilitating",
+    "industry_focus": ["CBDC Infrastructure", "Regulatory Frameworks", "Tokenised Securities"],
+    "regulatory_exposure": ["MiCA", "ECB Guidelines"],
+    "primary_constraint": "Regulatory sandbox and compliance-first technology",
+    "strategic_goal": "Explore CBDC infrastructure and collaborate with private sector and academia",
+    "urgency_level": "medium",
+    "geography_focus": ["Europe"]
+  }
+]
