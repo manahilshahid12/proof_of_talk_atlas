@@ -10,7 +10,7 @@ def generate_summary(profile1, profile2, meeting_value):
     Person B: {profile2.name}, {profile2.capital_role}, Goal: {profile2.strategic_goal}
     Meeting Value Score: {meeting_value:.2f}
 
-    Create a short professional pre-meeting brief explaining:
+    Create a short professional pre-meeting only 1-line brief explaining:
     - Who they are
     - Why they match
     - Suggested discussion points
