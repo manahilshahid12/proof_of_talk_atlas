@@ -4,3 +4,4 @@ numpy
 requests
 pydantic
 python-dotenv
+streamlit
