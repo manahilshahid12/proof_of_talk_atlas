@@ -1,6 +1,6 @@
 from embeddings import generate_embedding
 from scoring import strategic_alignment_score, complementary_score, estimated_meeting_value
-from summary import generate_summary
+# from summary import generate_summary
 
 def match_profiles(profile1, profile2):
 
@@ -11,7 +11,7 @@ def match_profiles(profile1, profile2):
     complementary = complementary_score(profile1, profile2)
     meeting_value = estimated_meeting_value(strategic, complementary)
 
-    summary = generate_summary(profile1, profile2, meeting_value)
+    # summary = generate_summary(profile1, profile2, meeting_value)
 
     recommendation = (
         "Strong Match – Schedule 1:1"
@@ -25,7 +25,7 @@ def match_profiles(profile1, profile2):
         "strategic_alignment": round(strategic, 3),
         "complementary_score": round(complementary, 3),
         "meeting_value": round(meeting_value, 3),
-        "summary": summary,
+        # "summary": summary,
         "recommendation": recommendation,
         "actions": ["Send Invite", "Quick Call"]
     }
